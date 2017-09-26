@@ -1,3 +1,4 @@
+//Source: https://tour.golang.org/welcome/1
 package main
 
 //Package fmt implements formatted I/O
