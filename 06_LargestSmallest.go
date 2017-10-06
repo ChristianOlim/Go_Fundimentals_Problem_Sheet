@@ -1,4 +1,4 @@
-//Source: https://tour.golang.org/welcome/1
+//Source: https://adriann.github.io/programming_problems.html
 //https://gist.github.com/pyk/10519339
 package main
 
