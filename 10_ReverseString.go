@@ -11,7 +11,7 @@ import (
 
 func main() { 
 	//Enter a sentence below
-    input := "SKY NEWS: Tory MPs overwhelmingly back May to remain PM" 
+	input := "SKY NEWS: Tory MPs overwhelmingly back May to remain PM" 
 	//Get the Unicode code 
 	n := 0
 	rune := make([]rune, len(input))
